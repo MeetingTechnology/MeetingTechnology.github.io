@@ -1,2 +1,2 @@
-# MeetingTechnology.github.io
-blogs
+# MeetingTechnology
+in preparation
